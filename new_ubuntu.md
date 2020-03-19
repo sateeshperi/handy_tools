@@ -8,3 +8,10 @@
   + `sudo apt install r-base`
 
 - [Rstudio download page](https://rstudio.com/products/rstudio/download/#download)
+
+
+### icommands
+```
+wget https://files.renci.org/pub/irods/releases/4.1.10/ubuntu14/irods-icommands-4.1.10-ubuntu14-x86_64.deb
+apt-get install ./irods-icommands-4.1.10-ubuntu14-x86_64.deb
+```
