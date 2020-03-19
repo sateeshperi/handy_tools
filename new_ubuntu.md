@@ -6,4 +6,5 @@
   + `sudo nano /etc/apt/sources.list`
   + `sudo apt update`
   + `sudo apt install r-base`
-  
+
+- [Rstudio download page](https://rstudio.com/products/rstudio/download/#download)
