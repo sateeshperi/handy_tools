@@ -22,3 +22,5 @@ curl https://repo.continuum.io/miniconda/Miniconda3-4.7.12.1-Linux-x86_64.sh -O
 bash Miniconda3-4.7.12.1-Linux-x86_64.sh
 rm Miniconda3-4.7.12.1-Linux-x86_64.sh
 ```
+
+- [enable html5 for youtube in firefox](https://askubuntu.com/questions/475351/firefox-html5-video-support)
