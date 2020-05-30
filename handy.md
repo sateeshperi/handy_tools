@@ -18,3 +18,7 @@
 - [NCBImeta](https://pypi.org/project/NCBImeta/)
 
 - [pySRAdb](https://saket-choudhary.me/pysradb/)
+
+
+### Linux tips and tricks
+- [How to Check the IP Address in Linux](https://www.wikihow.com/Check-the-IP-Address-in-Linux)
